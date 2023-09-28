@@ -1,1 +1,2 @@
 ECHO is on.
+code modified in file2 by b2 
