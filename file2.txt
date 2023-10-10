@@ -1,2 +1,3 @@
 ECHO is on.
 code modified in file2 by b2 
+Hello Hello wowo woow woow woow my framework 
